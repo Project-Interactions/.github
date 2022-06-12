@@ -1,0 +1,8 @@
+Project Interactions Repositories
+This GitHub Organization contains all the open source projects related to the Interactions modpack.
+Join our QQ group 961054098
+The Repositories:
+
+Interactions, the main repository.
+
+to be continued
