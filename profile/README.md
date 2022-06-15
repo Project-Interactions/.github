@@ -1,3 +1,5 @@
+这不是FTBI！ THIS IS NOT FTBI!
+
 Project Interactions Repositories
 This GitHub Organization contains all the projects that used in the Interactions modpack.
 Join our QQ group 961054098
