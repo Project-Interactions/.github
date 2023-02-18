@@ -1,4 +1,4 @@
-#An organization focus on 1.12.2
+# An organization focus on 1.12.2
 
 Everyone can join this organization if you are also an absolutely Minecraft 1.12 lover,you just need to contact me.
 
@@ -8,7 +8,7 @@ With mojang's version updates constantly, 1.12 may be abandoned by many players 
 
 Let's make 1.12.2 greater again!
 
-#专注于1.12.2的组织
+# 专注于1.12.2的组织
 
 只要你热爱这个版本，任何人都可以加入，你只需要通过任意方式联系我。
 
