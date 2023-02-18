@@ -1,12 +1,9 @@
+#An organization focus on 1.12.2
 
+Everyone can join this organization if you are also an absolutely Minecraft 1.12 lover,you just need to contact me.
 
-这不是FTBI！ THIS IS NOT FTBI!
+Currently, I am working on the modpack (Interactions)[https://github.com/Project-Interactions/Interactions], you can also join us.
 
-Project Interactions Repositories
-This GitHub Organization contains all the projects that used in the Interactions modpack.
-Join our QQ group 961054098
-The Repositories:
+With mojang's version updates constantly, 1.12 may be abandoned by many players in the near future, but I firmly believe it is the best version of Minecraft.
 
-Interactions, the main repository.
-
-to be continued
+Make 1.12.2 greater again.
