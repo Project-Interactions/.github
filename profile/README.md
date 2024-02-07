@@ -1,3 +1,7 @@
+# Declaration
+
+We've recently seen some people targeting [Rongmario](https://github.com/Rongmario) and [CleanroomMC](https://github.com/CleanroomMC)'s mods, and here's a stern condemnation of this behavior and boycotting them for forking just because of **"questionable"** content like they did.
+
 # An organization focus on 1.12.2
 
 Everyone can join this organization if you are also an absolutely Minecraft 1.12 lover,you just need to contact me.
